@@ -1,11 +1,13 @@
 # Business-Analytics-Technology
-## Curso de Analítica de Negocios y Tecnología
+## Business Analytics and Technology Course
 
-### Introducción a GitHub
-##  **Este es mi primer repositorio de GitHub**
+### Introduction to GitHub
+## **This is my first GitHub repository**
 
-Mi nombre es Juan Angel Gómez, estudiante de octavo semestre de *Administración de Empresas*, y monitor de la oficina de relaciones Exteriores de la Universidad Externado de Colombia, en este momento curso el énfasis de "Analítica de Negocios y Tecnología" y "Finanzas". Escogí estos enfasis principalmente por mi gusto personal por las nuevas tecnologías, la inteligencia artificial y mi afinidad con las finanzas y el análisis financiero.  
+My name is Juan Angel Gómez, an eighth-semester *Business Administration* student and a monitor at the Office of Foreign Relations of the Universidad Externado de Colombia. I am currently pursuing the emphasis in "Business Analytics and Technology" and "Finance." I chose these emphases mainly due to my personal interest in new technologies, artificial intelligence, and my affinity for finance and financial analysis.  
 
-En este repositorio se exploran las diferentes herramientas que tiene la plataforma de GitHub para la creación y personalización de reporsitorios, se realizó en sintaxis Markdown para el archivo Readme. En este repositorio se busca:
+In this repository, we explore the various tools that GitHub offers for creating and customizing repositories. The README file was written using Markdown syntax. This repository aims to:
 
-1. Aprender los 
+1. Learn the basic functions of GitHub.  
+2. Develop my profile for my professional future.  
+3. Find repositories and sources of information for my personal projects. 
