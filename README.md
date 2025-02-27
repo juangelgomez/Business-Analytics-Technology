@@ -11,3 +11,9 @@ In this repository, we explore the various tools that GitHub offers for creating
 1. Learn the basic functions of GitHub.  
 2. Develop my profile for my professional future.  
 3. Find repositories and sources of information for my personal projects. 
+
+This is my [LinkedIn](www.linkedin.com/in/juan-angel-gómez-garzón-77908927b)
+
+I live in ![Colombia](https://govco-prod-webutils.s3.amazonaws.com/uploads/2022-12-13/d50f15a1-7851-407a-98c4-5bb14ee301ae1imagen_noticia.svg)
+
+
